@@ -1,0 +1,159 @@
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="gvhgg.com" resolutions="1x" timestamp="1574205950130">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="3829989787" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:index"/>
+    <file name="museutils.js" crc="3803043152" ref="phone>index:index"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:index"/>
+    <file name="museconfig.js" crc="380897831" ref="phone>index:index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="phone>index:index"/>
+    <file name="require.js" crc="4157109226" ref="phone>index:index"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="1472637582_maxresdefault-1024x560-u1820-fr.jpg" crc="473617388" ref="phone>index"/>
+    <file name="a35c915c9efa551ce095d7309b0434d7--calligraphy-alphabet-alphabet-letters-u2192-fr.jpg" crc="4173685911" ref="phone>index"/>
+    <file name="adsense-reklam-birimi.jpg" crc="170580489" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="725e46b2fe71c71593dba70b30840cd4-u1828-fr.jpg" crc="4132359205" ref="phone>index"/>
+    <file name="reklama-u1829-fr.jpg" crc="203209497" ref="phone>index"/>
+    <file name="dccpj-rxgaah_ev-u1841-fr.jpg" crc="378183088" ref="phone>index"/>
+    <file name="34350640_391264944716043_1480058417534992384_n-u1845-fr.jpg" crc="335686594" ref="phone>index"/>
+    <file name="vidy-reklamy-u1892-fr.jpg" crc="215109214" ref="phone>index"/>
+    <file name="jl2p2cv2-u1847-fr.jpg" crc="243499840" ref="phone>index"/>
+    <file name="hqdefault-u1849-fr.jpg" crc="3980391145" ref="phone>index"/>
+    <file name="vk2-790x790-u1853-fr.jpg" crc="213542136" ref="phone>index"/>
+    <file name="chanel_logo_ucsymbu4nx65vwrvgxatvadg-u1855-fr.jpg" crc="4060039412" ref="phone>index"/>
+    <file name="logotip-u1859-fr.jpg" crc="331492178" ref="phone>index"/>
+    <file name="unnamed-u1861-fr.jpg" crc="490411225" ref="phone>index"/>
+    <file name="2dycpc1t-u1865-fr.jpg" crc="192031279" ref="phone>index"/>
+    <file name="maxresdefault-u1867-fr.jpg" crc="225707939" ref="phone>index"/>
+    <file name="screenshot_2017-09-07-16-48-35-u1871-fr.jpg" crc="242546737" ref="phone>index"/>
+    <file name="fc1da7257992fc36032e11db3df7a664_xl-u1873-fr.jpg" crc="439814765" ref="phone>index"/>
+    <file name="dtkjp2mzouz9kl77gojgmw-u1877-fr.jpg" crc="4096332996" ref="phone>index"/>
+    <file name="eaf2635542bfc373416cc0f4be0fbcbf-u1879-fr.jpg" crc="61322285" ref="phone>index"/>
+    <file name="s1200-u1883-fr.jpg" crc="215697898" ref="phone>index"/>
+    <file name="unnamed-u1881-fr.png" crc="404117341" ref="phone>index"/>
+    <file name="2158251-u1885-fr.jpg" crc="355379491" ref="phone>index"/>
+    <file name="imgbin-big-time-cash-make-money-free-bubble-burst-2-make-money-free-android-android-lxqdex58qmqcumfqbmu51g3xl-u1887-fr.jpg" crc="296051678" ref="phone>index"/>
+    <file name="coin ticker-u1904-fr.jpg" crc="4056669543" ref="phone>index"/>
+    <file name="ztrader.png" crc="191685048" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="robinhood-u1914-fr.jpg" crc="4080409592" ref="phone>index"/>
+    <file name="coin tracking-u1915-fr.jpg" crc="294375878" ref="phone>index"/>
+    <file name="4c4p49cnjmm-u1916-fr.jpg" crc="3812866965" ref="phone>index"/>
+    <file name="5b76a1d2b443eae7a99c1bd476d0dab3-u1917-fr.jpg" crc="3941372459" ref="phone>index"/>
+    <file name="cexio-u1918-fr.jpg" crc="626617" ref="phone>index"/>
+    <file name="cnovatornovator-1fotokucoin-1024x646-u1919-fr.jpg" crc="3828129225" ref="phone>index"/>
+    <file name="pokupka_reklamy_v_telegram_kanaly_i_gruppy-u2138-fr.jpg" crc="482536656" ref="phone>index"/>
+    <file name="vk-u2139-fr.jpg" crc="3825593300" ref="phone>index"/>
+    <file name="ok-u2140-fr.jpg" crc="4004636526" ref="phone>index"/>
+    <file name="news_31501-u2141-fr.jpg" crc="304428193" ref="phone>index"/>
+    <file name="774373760x570.jpg" crc="3957010732" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="домашняя-favicon.ico" crc="66976724" ref="index"/>
+    <file name="1472637582_maxresdefault-1024x560.jpg" crc="4064417908" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="a35c915c9efa551ce095d7309b0434d7--calligraphy-alphabet-alphabet-letters.jpg" crc="3837217878" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="725e46b2fe71c71593dba70b30840cd4.jpg" crc="4229882524" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="reklama.jpg" crc="462505124" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="vidy-reklamy.jpg" crc="503714229" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="34350640_391264944716043_1480058417534992384_n.jpg" crc="44231384" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dccpj-rxgaah_ev.jpg" crc="101774105" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="jl2p2cv2.jpg" crc="4003860153" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hqdefault.jpg" crc="3933739611" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="vk2-790x790-u1478-fr.jpg" crc="4152303033" ref="index"/>
+    <file name="chanel_logo_ucsymbu4nx65vwrvgxatvadg-u1480-fr.jpg" crc="193825326" ref="index"/>
+    <file name="logotip-u1484-fr.jpg" crc="4206092011" ref="index"/>
+    <file name="unnamed-u1486-fr.jpg" crc="317469239" ref="index"/>
+    <file name="2dycpc1t-u1490-fr.jpg" crc="3849184294" ref="index"/>
+    <file name="maxresdefault-u1492-fr.jpg" crc="4154168408" ref="index"/>
+    <file name="screenshot_2017-09-07-16-48-35-u1496-fr.jpg" crc="149824695" ref="index"/>
+    <file name="fc1da7257992fc36032e11db3df7a664_xl-u1498-fr.jpg" crc="114928248" ref="index"/>
+    <file name="dtkjp2mzouz9kl77gojgmw.jpg" crc="279774163" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="eaf2635542bfc373416cc0f4be0fbcbf.jpg" crc="3967825385" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="s1200.jpg" crc="450926511" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="unnamed.png" crc="326236279" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="imgbin-big-time-cash-make-money-free-bubble-burst-2-make-money-free-android-android-lxqdex58qmqcumfqbmu51g3xl.jpg" crc="371753494" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2158251.jpg" crc="3858921567" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="coin ticker.jpg" crc="3853174795" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="robinhood.jpg" crc="3873800371" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="coin tracking.jpg" crc="461957317" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="4c4p49cnjmm.jpg" crc="302996059" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="5b76a1d2b443eae7a99c1bd476d0dab3.jpg" crc="4235599637" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cexio.jpg" crc="4263756483" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cnovatornovator-1fotokucoin-1024x646.jpg" crc="522081548" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pokupka_reklamy_v_telegram_kanaly_i_gruppy.jpg" crc="3946042949" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="vk.jpg" crc="425162811" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ok.jpg" crc="4100627967" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="news_31501.png" crc="43116049" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="774373.jpg" crc="3942326745" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="index.css" crc="3900969816" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="11347629" seo="true" mt="1574137571724" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="4082632316" seo="true" mt="1574205929052" redirect="true"/>
+</manifest>
